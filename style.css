@@ -1,0 +1,96 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  width: 500px;
+  height: 650px;
+  border: 10px solid #F5EB11;
+  border-radius: 5px;
+  background-color: #77A0F5;
+  }
+header{
+  width: 100%;
+  height: 50px;
+  padding-left: 25px;
+}
+header img{
+  position: relative;
+  left: 200px;
+  top: 5px;
+  width: 40px;
+  height: 40px;
+}
+.picture img{
+  position: relative;
+  left: 15px;
+  width: 90%;
+  height: 250px;
+  border: 10px solid silver;
+}
+.bubble {
+  position: relative;
+  left: 150px;
+  top: 10px;
+}
+.bubbleDesc {
+  position: relative;
+  top: 15px;
+  left: 15px;
+}
+.aqua {
+  position: relative;
+  left: 125px;
+  top: 40px;
+}
+.aquaDesc {
+  position: relative;
+  top: 50px;
+  left: 15px;
+}
+.line {
+  position:relative;
+  border-bottom: 5px solid lightgrey;
+  margin-top: 5px;
+  width: 80%;
+  top: 65px;
+  left: 15px;
+}
+.bubble img {
+  position: relative; 
+  width: 20px;
+  height: 20px;
+  left: -120px;
+}
+.aqua img {
+  position: relative; 
+  width: 20px;
+  height: 20px;
+  left: -95px;
+}
+.aqua img2 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  }
+.lineDesc {
+  position: relative;
+  top: 70px;
+  left: 13px;
+}
+.thickline {
+  position:relative;
+  box-shadow: 3px -4px 2px #888888;
+  border-bottom: 15px solid white;
+  margin-top: 5px;
+  width: 40%;
+  top: 80px;
+  left: 260px;
+}
+.thickdesc {
+  position: relative;
+  top: 80px;
+  left: 260px;
+}
+
+
